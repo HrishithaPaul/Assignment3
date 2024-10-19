@@ -8,7 +8,7 @@ namespace BroadbandPlans
     }
     public class Program
     {
-        public void Main(string[] args)
+        public static void Main(string[] args)
         {
             var plans = new List<IBroadbandPlan>
             {
